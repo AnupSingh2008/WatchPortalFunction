@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchPortalFunction", "WatchPortalFunction.csproj", "{AC3EBA0C-E1E4-4AE6-8B0F-F7287B0BDB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchFunctionTests", "..\WatchFunctionTest\WatchFunctionTests.csproj", "{A519EC74-92F8-4A11-8C34-849E2BC432F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3EBA0C-E1E4-4AE6-8B0F-F7287B0BDB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3EBA0C-E1E4-4AE6-8B0F-F7287B0BDB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3EBA0C-E1E4-4AE6-8B0F-F7287B0BDB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3EBA0C-E1E4-4AE6-8B0F-F7287B0BDB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A519EC74-92F8-4A11-8C34-849E2BC432F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A519EC74-92F8-4A11-8C34-849E2BC432F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A519EC74-92F8-4A11-8C34-849E2BC432F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A519EC74-92F8-4A11-8C34-849E2BC432F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CFC2263-E3CF-467A-913C-731C5E6B9099}
+	EndGlobalSection
+EndGlobal
